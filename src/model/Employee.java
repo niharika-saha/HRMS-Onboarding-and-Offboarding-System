@@ -6,9 +6,10 @@ public class Employee {
     private int yearsOfService;
 
 
-    public Employee(String employeeID, String name) {
+    public Employee(String employeeID, String name, int years) {
         this.employeeID = employeeID;
         this.name = name;
+        this.yearsOfService = years;
     }
 
     public String getEmployeeID() {

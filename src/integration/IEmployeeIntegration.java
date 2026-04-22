@@ -1,6 +1,6 @@
 package integration;
 
-import model.Employee;
+import model.model.Employee;
 
 /**
  * Integration interface exposed by Employee Setup module (Member 2).
